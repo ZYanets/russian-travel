@@ -12,4 +12,4 @@
 ## Планы по доработке проекта
 Использование JavaScript
 
-* [Ссылка на GitHub Pages](https://github.com/ZYanets/russian-travel.git)
+* [Ссылка на GitHub Pages](https://zyanets.github.io/russian-travel/)

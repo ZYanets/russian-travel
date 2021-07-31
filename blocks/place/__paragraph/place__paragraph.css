@@ -7,8 +7,8 @@
   color: #FFF;
 }
 
-.place__paragraph:first-child {
-  margin-bottom: 27px;
+.place__paragraph:last-child {
+  margin-top: 26px;
 }
 
 @media screen and (max-width: 1023px) {
@@ -17,8 +17,8 @@
     line-height: 26.08px;
   }
 
-  .place__paragraph:first-child {
-    margin-bottom: 25px;
+  .place__paragraph:last-child {
+    margin-top: 25px;
   }
 }
 
@@ -26,9 +26,5 @@
   .place__paragraph {
     margin: auto;
     width: calc(100% - 16px * 2);
-  }
-
-  .place__paragraph:first-child {
-    margin-bottom: 25px;
   }
 }

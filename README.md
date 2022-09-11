@@ -9,7 +9,7 @@
 - grid-сетка.
 
 ## Использованные технологии
-`HTML`, `CSS Grid Layout`, `CSS Flexbox`, 'BEM'
+`HTML`, `CSS Grid Layout`, `CSS Flexbox`, `BEM`
 
 ## Запуск проекта
 - `git clone git@github.com:ZYanets/russian-travel` - клонировать проект с удаленного репозитория
